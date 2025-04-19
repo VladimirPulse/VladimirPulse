@@ -21,9 +21,9 @@
 ### 2. Проект для публикации рецептов [foodgram](https://github.com/VladimirPulse/foodgram)
 - **Достижения:**
   1. Создание собственного API-сервиса на базе Django
-  2. SPA на React с бэкендом на Django через API
-  3. Разработка и запуск мультиконтейнерного приложения с использованием Docker
-  4. Применение основ DevOps, включая CI/CD
+  1. SPA на React с бэкендом на Django через API
+  1. Разработка и запуск мультиконтейнерного приложения с использованием Docker
+  1. Применение основ DevOps, включая CI/CD
 - **Технологии:** Python, JSON, YAML, Django, React, API, Docker, Nginx, PostgreSQL, Gunicorn, JWT, Postman, CI/CD
 
 ### 3. Проект благотворительного фонда [cat_charity_fund](https://github.com/VladimirPulse/cat_charity_fund)
